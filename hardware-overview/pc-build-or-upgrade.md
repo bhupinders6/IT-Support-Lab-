@@ -31,7 +31,7 @@ This file contains information about the hardware components used and upgrade st
 
 ## 🔄 Upgrade Potential
 
-| Component | Current | Upgrade Options |
+| Component | Current | Upgrade Options | 
 |----------|---------|------------------|
 | RAM      | 16GB DDR4 | Up to 32GB |
 | Storage  | 2x SSDs   | Can add external SSD via USB-C/Thunderbolt |
